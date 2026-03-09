@@ -28,5 +28,7 @@ Este repositorio es mi **Base de Conocimientos (Wiki)** personal para dominar el
 ## 🛠️ Herramientas de Diagnóstico de Red
 * **ip a**: Utilizado para identificar las interfaces y direcciones IP de mis máquinas.
 * **ping -c 4**: Utilizado para verificar la latencia y conectividad entre Ubuntu (base) y Kali (auditoría). Resultado: 0% pérdida de paquetes.
+
+* ![Prácticas de Redes](./Captura de pantalla 2026-03-07 195140.jpg)
 ---
 > *"La disciplina técnica es la base para combatir la delincuencia y proteger los sistemas."*
