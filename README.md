@@ -6,7 +6,7 @@ Diccionario técnico bilingüe (EN-ES) especializado en Ciberseguridad, Redes y 
 
 Este repositorio es mi **Base de Conocimientos (Wiki)** personal para dominar el lenguaje técnico de la industria y prepararme para las certificaciones de **Google** y **Cisco**.
 
-![Prácticas de Redes](./Captura de pantalla 2026-03-07 195140.jpg)
+
 
 ## 💻 Fundamentos de Linux y Sistemas
 * **Kernel**: El núcleo del sistema operativo.
@@ -29,6 +29,6 @@ Este repositorio es mi **Base de Conocimientos (Wiki)** personal para dominar el
 * **ip a**: Utilizado para identificar las interfaces y direcciones IP de mis máquinas.
 * **ping -c 4**: Utilizado para verificar la latencia y conectividad entre Ubuntu (base) y Kali (auditoría). Resultado: 0% pérdida de paquetes.
 
-
+Captura de pantalla 2026-03-08 195437.png
 ---
 > *"La disciplina técnica es la base para combatir la delincuencia y proteger los sistemas."*
